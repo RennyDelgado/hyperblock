@@ -14,4 +14,8 @@ font-family: cursive;
   margin: 0 auto;
 }
 
+#container #cabecera { background-color: white; margin-top: -2rem; }
+#container #cabecera h1 {color: red; padding: 2rem; text-transform: uppercase; font-size: 2rem}
+#container #cabecera p {font-family:tahoma; font-size:45px; text-transform: uppercase;}
+
 #container h1 {color:#fff; font-size: 20px;}
