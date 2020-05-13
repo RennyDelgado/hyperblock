@@ -16,3 +16,5 @@ cambio 8
 cambio 9
 
 cambio --9 falso
+
+cambio -10 y si me importa
